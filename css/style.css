@@ -182,6 +182,22 @@ footer {
 	background-image: url('../img/services/allinone.jpg');
 }
 
+.projects-hero {
+	background-image: url('../img/projects/project-hero.jpg');
+	background-position: center;
+}
+
+.projects img {
+	height: 240px;
+	object-fit: center;
+}
+
+.projects .btn {
+	font-size: 1.4rem;
+	text-transform: uppercase;
+}
+
+
 @media (min-width: 992px) {
 	.home-passion {
 		background-image: url(../img/sekcja2-bg.jpg);
