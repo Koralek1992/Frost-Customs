@@ -11,3 +11,18 @@ html {
 body {
     font-family: 'Raleway', sans-serif;
 }
+
+nav{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.navbar-toggler {
+    font-size: 3rem;
+}
+
+.navbar-brand {
+    font-size: 2.4rem;
+    font-weight: bold;
+    text-transform: none;
+}
