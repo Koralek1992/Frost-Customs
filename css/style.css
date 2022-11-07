@@ -79,6 +79,13 @@ header {
     z-index: 0;
 }
 
+.home-brand h3{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+
 @media(min-width: 992px) {
     .home-passion {
         background-image: url(../img/sekcja2-bg.jpg);
