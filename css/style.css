@@ -85,6 +85,9 @@ header {
 }
 
 
+footer {
+    font-size: 1.6rem;
+}
 
 @media(min-width: 992px) {
     .home-passion {
