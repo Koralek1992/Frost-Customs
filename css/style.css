@@ -10,6 +10,7 @@ html {
 
 body {
 	font-family: 'Raleway', sans-serif;
+	font-size: 1.6rem;
 }
 
 .hero-shadow {
@@ -117,7 +118,7 @@ footer {
 }
 
 .aboutus-text {
-    padding: 1.8rem;
+    padding: 1.8em;
 }
 
 .aboutus-text h3 {
