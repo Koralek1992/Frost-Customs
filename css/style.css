@@ -59,6 +59,32 @@ header {
 	background-image: url('../img/main-carousel-3.jpg');
 }
 
+.home-boxes {
+    padding: 5em 0;
+}
+
+.home-box i {
+    font-size: 4rem;
+}
+.home-box h3 {
+    font-size: 2.6rem;
+}
+
+.home-passion{
+    position: relative;
+    background-image: url(../img/sekcja2-small.jpg);
+    height: 350px;
+    background-position: center;
+	background-size: cover;
+    z-index: 0;
+}
+
+@media(min-width: 992px) {
+    .home-passion {
+        background-image: url(../img/sekcja2-bg.jpg);
+    }
+}
+
 @media (min-width: 1400px) {
 	.carousel-item {
 		height: 600px;
@@ -72,6 +98,4 @@ header {
     .carousel-img-three {
         background-image: url('../img/main-carousel-3-hq.jpg');
     }
-
-
 }
